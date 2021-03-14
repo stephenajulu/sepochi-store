@@ -1,7 +1,7 @@
 title: Planty
 baseURL: /
 params:
-  palette: yellow
+  palette: cyan
   snipcart_api_key: NDk0ZmZlNjktMGM5NC00NjEyLTkxNDEtYTY2MDg5ZTA0NzRlNjM3MDAzNTU0MTQxNDkyMjM1
   favicon: images/favicon.png
   logo_light: images/logo-white.svg
