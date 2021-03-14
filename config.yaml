@@ -2,7 +2,7 @@ title: Planty
 baseURL: /
 params:
   palette: green
-  snipcart_api_key: ''
+  snipcart_api_key: NDk0ZmZlNjktMGM5NC00NjEyLTkxNDEtYTY2MDg5ZTA0NzRlNjM3MDAzNTU0MTQxNDkyMjM1
   favicon: images/favicon.png
   logo_light: images/logo-white.svg
   logo_dark: images/logo.svg
