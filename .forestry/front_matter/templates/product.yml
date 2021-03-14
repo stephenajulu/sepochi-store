@@ -43,12 +43,12 @@ fields:
   config:
     required: true
 pages:
-- products/plant1.md
-- products/plant2.md
-- products/plant3.md
-- products/plant4.md
-- products/plant5.md
-- products/plant6.md
-- products/plant7.md
-- products/plant8.md
-- products/plant9.md
+- content/products/plant1.md
+- content/products/plant2.md
+- content/products/plant3.md
+- content/products/plant4.md
+- content/products/plant5.md
+- content/products/plant6.md
+- content/products/plant7.md
+- content/products/plant8.md
+- content/products/plant9.md

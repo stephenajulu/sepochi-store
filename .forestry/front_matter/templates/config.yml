@@ -59,8 +59,7 @@ fields:
   - type: number
     name: bg_image_primary_opacity
     label: Product Left Background Image Opacity
-    description: >-
-      An integer between 0 and 100. A lower value makes the image more
+    description: An integer between 0 and 100. A lower value makes the image more
       transparent
   - type: file
     name: bg_image_secondary
